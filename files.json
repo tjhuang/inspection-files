@@ -11,8 +11,13 @@
             "type": "BZIP2_PDF"
         },
         {
-            "md5": "6eb3b111f4dbb6b5d90ec7cdf8cfc538",
-            "name": "clean/BZIP2_PDF/debian-administrator-handbook.tar.bz2",
+            "md5": "22a1a619398add174b7041d7566148dc",
+            "name": "clean/BZIP2_PDF/pdf-example-bookmarks.tar.bz2",
+            "type": "BZIP2_PDF"
+        },
+        {
+            "md5": "c4af00b0e2e0ac19d46104dc6e925842",
+            "name": "clean/BZIP2_PDF/pdf-example-watermarks.tar.bz2",
             "type": "BZIP2_PDF"
         },
         {
@@ -146,18 +151,23 @@
             "type": "ZIP_PE"
         },
         {
+            "md5": "78c8d0bc45176fd5e80d218c25157639",
+            "name": "clean/ZIP_PDF/pdf-example-watermarks.zip",
+            "type": "ZIP_PDF"
+        },
+        {
             "md5": "9195a59978440a2263d69e371f690778",
             "name": "clean/ZIP_PDF/rfc8118.zip",
             "type": "ZIP_PDF"
         },
         {
-            "md5": "4ed7988aa772f1d0d1814a75f28a6ea0",
-            "name": "clean/ZIP_PDF/USA-immigration-service-checklist.zip",
+            "md5": "468d5ef3984d169a0f6b07804b09361d",
+            "name": "clean/ZIP_PDF/pdf-example-bookmarks.zip",
             "type": "ZIP_PDF"
         },
         {
-            "md5": "947cfba113069df6dbe9d331905e9fb7",
-            "name": "clean/ZIP_PDF/debian-administrator-handbook.zip",
+            "md5": "4ed7988aa772f1d0d1814a75f28a6ea0",
+            "name": "clean/ZIP_PDF/USA-immigration-service-checklist.zip",
             "type": "ZIP_PDF"
         },
         {
@@ -206,8 +216,18 @@
             "type": "GZ_PE"
         },
         {
+            "md5": "71d684dbd5e7ee951da871f11b7a5040",
+            "name": "clean/PDF/pdf-example-watermarks.pdf",
+            "type": "PDF"
+        },
+        {
             "md5": "62549a67aaceb7b585e1023eec40a8f9",
             "name": "clean/PDF/USA-immigration-service-checklist.pdf",
+            "type": "PDF"
+        },
+        {
+            "md5": "90264dfb3381eed437e4466156575bcd",
+            "name": "clean/PDF/pdf-example-bookmarks.pdf",
             "type": "PDF"
         },
         {
@@ -216,18 +236,18 @@
             "type": "PDF"
         },
         {
-            "md5": "0bbbf93bf3ebe7b5b85b136f6e6e71db",
-            "name": "clean/PDF/debian-administrator-handbook.pdf",
-            "type": "PDF"
-        },
-        {
             "md5": "11801ee9bbc29dc987b66acfcb6c4fcf",
             "name": "clean/RAR_PDF/rfc8118.rar",
             "type": "RAR_PDF"
         },
         {
-            "md5": "d887f449afab5d53791a155f9b1f4a83",
-            "name": "clean/RAR_PDF/debian-administrator-handbook.rar",
+            "md5": "618c4ac451732588d3653d23929b9536",
+            "name": "clean/RAR_PDF/pdf-example-bookmarks.rar",
+            "type": "RAR_PDF"
+        },
+        {
+            "md5": "db5917f65b001042d4ba97d9159ae273",
+            "name": "clean/RAR_PDF/pdf-example-watermarks.rar",
             "type": "RAR_PDF"
         },
         {
@@ -401,13 +421,18 @@
             "type": "DEB"
         },
         {
-            "md5": "5e88bf1cf5aacaa376b77ddb9f1e8b9b",
-            "name": "clean/GZ_PDF/rfc8118.tar.gz",
+            "md5": "69fcc1c730b84d54407028e8b0c993b0",
+            "name": "clean/GZ_PDF/pdf-example-bookmarks.tar.gz",
             "type": "GZ_PDF"
         },
         {
-            "md5": "73cdf64e9f432a032b23a30802b89bb1",
-            "name": "clean/GZ_PDF/debian-administrator-handbook.tar.gz",
+            "md5": "07a70ec7159c5c5bf108ba3151919d3c",
+            "name": "clean/GZ_PDF/pdf-example-watermarks.tar.gz",
+            "type": "GZ_PDF"
+        },
+        {
+            "md5": "5e88bf1cf5aacaa376b77ddb9f1e8b9b",
+            "name": "clean/GZ_PDF/rfc8118.tar.gz",
             "type": "GZ_PDF"
         },
         {
@@ -473,6 +498,66 @@
     ],
     "infected": [
         {
+            "md5": "5f1dd1e941de149c95ee9dca2732dd60",
+            "name": "infected/BZIP2_PDF/d92a33f1ffd40be689dd566f12c81e8e.tar.bz2",
+            "type": "BZIP2_PDF"
+        },
+        {
+            "md5": "385e066370fe54595514d2a6f946ab11",
+            "name": "infected/BZIP2_PDF/04cab4697227a58bf2ff2f8ca3fd7bb4.tar.bz2",
+            "type": "BZIP2_PDF"
+        },
+        {
+            "md5": "8a0543fd184893f0a1d3c5a5b558095f",
+            "name": "infected/BZIP2_PDF/f6e8a59444b3c444847d8ae260f28eae.tar.bz2",
+            "type": "BZIP2_PDF"
+        },
+        {
+            "md5": "91c73ef177c11aceeaa7569012f35c75",
+            "name": "infected/BZIP2_PDF/476cb3aa93d670402734895cb3e0e8c5.tar.bz2",
+            "type": "BZIP2_PDF"
+        },
+        {
+            "md5": "9e956824cb3aad1f460017ef6595c363",
+            "name": "infected/BZIP2_PDF/97ccac199b8893380e14b0583596abb6.tar.bz2",
+            "type": "BZIP2_PDF"
+        },
+        {
+            "md5": "22df750c37c75a8c5433b6f5479d4050",
+            "name": "infected/BZIP2_PDF/5222239c314d3872e454768898cb65e4.tar.bz2",
+            "type": "BZIP2_PDF"
+        },
+        {
+            "md5": "c8e31b5343e4c07f0f800efa674e9642",
+            "name": "infected/BZIP2_PDF/bd98a440e75c999b649233a0d225ae7a.tar.bz2",
+            "type": "BZIP2_PDF"
+        },
+        {
+            "md5": "e9bfa0067ae72a08db4aa98d6bc77fdf",
+            "name": "infected/BZIP2_PDF/132700c1e0cea59ae0ba04ebe5bee149.tar.bz2",
+            "type": "BZIP2_PDF"
+        },
+        {
+            "md5": "1f3594acac839a319ee10d8ab51a56de",
+            "name": "infected/BZIP2_PDF/48eca0f341c90db53bcd15f44f70b408.tar.bz2",
+            "type": "BZIP2_PDF"
+        },
+        {
+            "md5": "18a646f424fdd21dde9c43119ebab874",
+            "name": "infected/BZIP2_PDF/fd5531fb739df6b7cb439d6e15e8f5d3.tar.bz2",
+            "type": "BZIP2_PDF"
+        },
+        {
+            "md5": "f38abc528e19956e8984761c954f8f5f",
+            "name": "infected/BZIP2_EICAR/eicar.com.tar.bz2",
+            "type": "BZIP2_EICAR"
+        },
+        {
+            "md5": "5245ead3d86b3b3ea62a1bd338b8bdb9",
+            "name": "infected/BZIP2_EICAR/eicar.com.txt.tar.bz2",
+            "type": "BZIP2_EICAR"
+        },
+        {
             "md5": "2160a983299b979c63992c43a05de546",
             "name": "infected/GZ_ELF/3c49b5160b981f06bd5242662f8d0a54.tar.gz",
             "type": "GZ_ELF"
@@ -521,31 +606,6 @@
             "md5": "a1f13a09dc39f5ba9edb565799ddc93f",
             "name": "infected/GZ_ELF/6219833c11000e72b4c68b83cf729dda.tar.gz",
             "type": "GZ_ELF"
-        },
-        {
-            "md5": "8315030fb499a154178c6b96176fa582",
-            "name": "infected/BZIP2/eicar.com.tar.bz2",
-            "type": "BZIP2"
-        },
-        {
-            "md5": "bf820e51826d544829bb989097aeec4d",
-            "name": "infected/BZIP2/28a1fd2146d805568b6fc324bfbbf504.pdf.tar.bz2",
-            "type": "BZIP2"
-        },
-        {
-            "md5": "dddbca4aefaf853320a821eee8133b73",
-            "name": "infected/BZIP2/050f2541b0ff97734b066f33be89f53d.tar.bz2",
-            "type": "BZIP2"
-        },
-        {
-            "md5": "0afbb793dc195a563d422132ed5f1a45",
-            "name": "infected/BZIP2/471d39a51a79f342033c5b0636c244dc.exe.tar.bz2",
-            "type": "BZIP2"
-        },
-        {
-            "md5": "fae4da0c256e7d783a680f9efabbece5",
-            "name": "infected/BZIP2/014e14af7ea52e3e1fab754a4eeae319.js.tar.bz2",
-            "type": "BZIP2"
         },
         {
             "md5": "781bb6c479389c337491a5d2bd9db264",
@@ -621,6 +681,71 @@
             "md5": "a77818fd1fc8b8f3b9aa37c540105fe5",
             "name": "infected/ZIP_EICAR/eicar.com.txt.zip",
             "type": "ZIP_EICAR"
+        },
+        {
+            "md5": "07cd951540fca745def808b2504bc39c",
+            "name": "infected/BZIP2_PE/d03fbd45ff5df1d9400497c83791e2d5.tar.bz2",
+            "type": "BZIP2_PE"
+        },
+        {
+            "md5": "898ccf28342d5d1c36cbd4007b12564b",
+            "name": "infected/BZIP2_PE/ea24f9297d11023076d9b10de14d15ec.tar.bz2",
+            "type": "BZIP2_PE"
+        },
+        {
+            "md5": "93a4becf668f053c5aaf34bafe6ea148",
+            "name": "infected/BZIP2_PE/1d8b370a114f9490f36bebd77ed347d1.tar.bz2",
+            "type": "BZIP2_PE"
+        },
+        {
+            "md5": "2bc2b81e89f4dd4b015db34e3d4156ee",
+            "name": "infected/BZIP2_PE/471d39a51a79f342033c5b0636c244dc.tar.bz2",
+            "type": "BZIP2_PE"
+        },
+        {
+            "md5": "db4e0db62a6b72211ec9eabfcf84174f",
+            "name": "infected/BZIP2_PE/1f3195eff807eceda24c74ea4c483f8c.tar.bz2",
+            "type": "BZIP2_PE"
+        },
+        {
+            "md5": "8b16f9b2dc878038def27eba0731ae30",
+            "name": "infected/BZIP2_PE/c57d8ffc61838d5fead88fceb749a06f.tar.bz2",
+            "type": "BZIP2_PE"
+        },
+        {
+            "md5": "4064c2cff8883eae6935d62b6e783939",
+            "name": "infected/BZIP2_PE/48cd89827939b3a8976d9bb0993bc338.tar.bz2",
+            "type": "BZIP2_PE"
+        },
+        {
+            "md5": "3b51d4505175352807222e0cb33efcc3",
+            "name": "infected/BZIP2_PE/eb93600c45e8d7cf13c3ae86aa4d4999.tar.bz2",
+            "type": "BZIP2_PE"
+        },
+        {
+            "md5": "21af02e71e2dea9b330b5b7df53d827e",
+            "name": "infected/BZIP2_PE/38b50102f941b4f4cba161408cf20933.tar.bz2",
+            "type": "BZIP2_PE"
+        },
+        {
+            "md5": "8e2238db7d5e9fabf2a8948ad1e54018",
+            "name": "infected/BZIP2_PE/9b8ec48d4be4405140d7555dad2b66ef.tar.bz2",
+            "type": "BZIP2_PE"
+        },
+        {
+            "md5": "66617459458932985c74a4083f2deafa",
+            "name": "infected/BZIP2_PE/2a9d0d06d292a4cbbe4a95da4650ed54.tar.bz2",
+            "type": "BZIP2_PE"
+        },
+        {
+            "md5": "2e3acdd921feddc0a5a668ca2828f374",
+            "name": "infected/BZIP2_PE/60bcb0e1b9ae5a9b50dcff7decd656ae.tar.bz2",
+            "type": "BZIP2_PE"
+        },
+        {
+            "md5": "84ae9dd67cc1f9ea8c005724c4c4dc53",
+            "name": "infected/BZIP2_PE/63bab74409c514ed8548b1f33d0acedc.tar.bz2",
+            "type": "BZIP2_PE"
         },
         {
             "md5": "fdd3e7ff99d22988ffa9a97833da26d1",
@@ -788,11 +913,6 @@
             "type": "ZIP_PDF"
         },
         {
-            "md5": "26d67e6fe157cf11c02b8ab0b8c5a4c8",
-            "name": "infected/ZIP_PDF/28a1fd2146d805568b6fc324bfbbf504.zip",
-            "type": "ZIP_PDF"
-        },
-        {
             "md5": "cba3237184bce9935f83df29a2c1cec4",
             "name": "infected/RAR_JS/72dcaa75566461edf022edfaa06fd92f.rar",
             "type": "RAR_JS"
@@ -923,11 +1043,6 @@
             "type": "PDF"
         },
         {
-            "md5": "28a1fd2146d805568b6fc324bfbbf504",
-            "name": "infected/PDF/28a1fd2146d805568b6fc324bfbbf504.pdf",
-            "type": "PDF"
-        },
-        {
             "md5": "04cab4697227a58bf2ff2f8ca3fd7bb4",
             "name": "infected/PDF/04cab4697227a58bf2ff2f8ca3fd7bb4.pdf",
             "type": "PDF"
@@ -1000,11 +1115,6 @@
         {
             "md5": "9720be6b7f08fd37e29845860f1c5b58",
             "name": "infected/RAR_PDF/97ccac199b8893380e14b0583596abb6.rar",
-            "type": "RAR_PDF"
-        },
-        {
-            "md5": "59ea78d855444604fbec2d51f33fca68",
-            "name": "infected/RAR_PDF/28a1fd2146d805568b6fc324bfbbf504.rar",
             "type": "RAR_PDF"
         },
         {
@@ -1338,11 +1448,6 @@
             "type": "ELF"
         },
         {
-            "md5": "df2381000dc3086d1f2c4b51ae01e347",
-            "name": "infected/GZ_PDF/28a1fd2146d805568b6fc324bfbbf504.tar.gz",
-            "type": "GZ_PDF"
-        },
-        {
             "md5": "43122995264bb3e28faf2e94a3c40db3",
             "name": "infected/GZ_PDF/f6e8a59444b3c444847d8ae260f28eae.tar.gz",
             "type": "GZ_PDF"
@@ -1441,6 +1546,106 @@
             "md5": "32e8cc9367c2b8fdbbc4b093c370df75",
             "name": "infected/RAR_ELF/bcb6b83a4e6e20ffe0ce3c750360ddf5.rar",
             "type": "RAR_ELF"
+        },
+        {
+            "md5": "f554798753a30b970ebb6c79b529d87a",
+            "name": "infected/BZIP2_JS/499dc42ff233a04b8d9d70b5b80160fe.tar.bz2",
+            "type": "BZIP2_JS"
+        },
+        {
+            "md5": "ab0c7dbd957717179cf98b715c970602",
+            "name": "infected/BZIP2_JS/9f0b2be4432ba68151f9080c84c4fc60.tar.bz2",
+            "type": "BZIP2_JS"
+        },
+        {
+            "md5": "054d6124a4ea570ad5753c2a1d068f77",
+            "name": "infected/BZIP2_JS/f259e3740d93c7aae238dacdc203e940.tar.bz2",
+            "type": "BZIP2_JS"
+        },
+        {
+            "md5": "28d34efd3f666081f834c42cd8c014ae",
+            "name": "infected/BZIP2_JS/c420102e43432810ea7409645f7061a2.tar.bz2",
+            "type": "BZIP2_JS"
+        },
+        {
+            "md5": "acd400ed21cbb92943d0ce5e96442402",
+            "name": "infected/BZIP2_JS/79dc36066acc58ecb8f380201168560d.tar.bz2",
+            "type": "BZIP2_JS"
+        },
+        {
+            "md5": "a5862d48ec6d50c9484fddd598696d8f",
+            "name": "infected/BZIP2_JS/72dcaa75566461edf022edfaa06fd92f.tar.bz2",
+            "type": "BZIP2_JS"
+        },
+        {
+            "md5": "2a0ee82812ea2048dd4c484c0439de6f",
+            "name": "infected/BZIP2_JS/7f83d568142c241589a703ef7eb967fd.tar.bz2",
+            "type": "BZIP2_JS"
+        },
+        {
+            "md5": "b685b70e38688e8804f5e4a245b01cf2",
+            "name": "infected/BZIP2_JS/fea80067184a657db0eb2f43020a5506.tar.bz2",
+            "type": "BZIP2_JS"
+        },
+        {
+            "md5": "f0209d3a0d45c8ed37d26dbc910e9d94",
+            "name": "infected/BZIP2_JS/014e14af7ea52e3e1fab754a4eeae319.tar.bz2",
+            "type": "BZIP2_JS"
+        },
+        {
+            "md5": "51258cc0f9fde17d9e9d26e312086421",
+            "name": "infected/BZIP2_JS/18a5bbe7e875237ef8b521ff130cb12d.tar.bz2",
+            "type": "BZIP2_JS"
+        },
+        {
+            "md5": "74fc98847ff0de3c371d25ea555faaa6",
+            "name": "infected/BZIP2_ELF/a99c10cb9713770b9e7dda376cddee3a.tar.bz2",
+            "type": "BZIP2_ELF"
+        },
+        {
+            "md5": "db06892c42eca102ed4b066c922a7344",
+            "name": "infected/BZIP2_ELF/a62bd401421253c27fc38aa8803f1451.tar.bz2",
+            "type": "BZIP2_ELF"
+        },
+        {
+            "md5": "55b5b6499ca20abc2bd28670dfad8774",
+            "name": "infected/BZIP2_ELF/050f2541b0ff97734b066f33be89f53d.tar.bz2",
+            "type": "BZIP2_ELF"
+        },
+        {
+            "md5": "44fa3adb74bf854986fad15c793eb0e2",
+            "name": "infected/BZIP2_ELF/d1b5b4b4b5a118e384c7ff487e14ac3f.tar.bz2",
+            "type": "BZIP2_ELF"
+        },
+        {
+            "md5": "56852dc281955fcbdd84d1421491e87f",
+            "name": "infected/BZIP2_ELF/6f5a35ad1744bd78249932566f84dd90.tar.bz2",
+            "type": "BZIP2_ELF"
+        },
+        {
+            "md5": "d68964c71a53ed689d21c8108f51c659",
+            "name": "infected/BZIP2_ELF/3c49b5160b981f06bd5242662f8d0a54.tar.bz2",
+            "type": "BZIP2_ELF"
+        },
+        {
+            "md5": "aeb7420c67edc9fb219f8c7ae326aed0",
+            "name": "infected/BZIP2_ELF/09e4b26df6b499a81453766c17226106.tar.bz2",
+            "type": "BZIP2_ELF"
+        },
+        {
+            "md5": "b5978b66bf48cfa246132ba8685fde54",
+            "name": "infected/BZIP2_ELF/bcb6b83a4e6e20ffe0ce3c750360ddf5.tar.bz2",
+            "type": "BZIP2_ELF"
+        },
+        {
+            "md5": "2c78519497b191873da6aee88850a596",
+            "name": "infected/BZIP2_ELF/467771cc496a8764e143c772d3585072.tar.bz2",
+            "type": "BZIP2_ELF"
+        },
+        {
+            "md5": "58f1c36f0baf314ad4bc7539c33a7278",
+            "name": "infected/BZIP2_ELF/6219833c11000e72b4c68b83cf729dda.tar.bz2",
+            "type": "BZIP2_ELF"
         }
     ]
 }
