@@ -503,11 +503,6 @@
             "type": "BZIP2_PDF"
         },
         {
-            "md5": "385e066370fe54595514d2a6f946ab11",
-            "name": "infected/BZIP2_PDF/04cab4697227a58bf2ff2f8ca3fd7bb4.tar.bz2",
-            "type": "BZIP2_PDF"
-        },
-        {
             "md5": "8a0543fd184893f0a1d3c5a5b558095f",
             "name": "infected/BZIP2_PDF/f6e8a59444b3c444847d8ae260f28eae.tar.bz2",
             "type": "BZIP2_PDF"
@@ -878,11 +873,6 @@
             "type": "ZIP_PDF"
         },
         {
-            "md5": "ff069bd04d73607f76960cceaf3d137b",
-            "name": "infected/ZIP_PDF/04cab4697227a58bf2ff2f8ca3fd7bb4.zip",
-            "type": "ZIP_PDF"
-        },
-        {
             "md5": "486e02df98e85dd6d5acd1054a21dcba",
             "name": "infected/ZIP_PDF/5222239c314d3872e454768898cb65e4.zip",
             "type": "ZIP_PDF"
@@ -1043,11 +1033,6 @@
             "type": "PDF"
         },
         {
-            "md5": "04cab4697227a58bf2ff2f8ca3fd7bb4",
-            "name": "infected/PDF/04cab4697227a58bf2ff2f8ca3fd7bb4.pdf",
-            "type": "PDF"
-        },
-        {
             "md5": "f6e8a59444b3c444847d8ae260f28eae",
             "name": "infected/PDF/f6e8a59444b3c444847d8ae260f28eae.pdf",
             "type": "PDF"
@@ -1095,11 +1080,6 @@
         {
             "md5": "8d9b694540a19f9290ba68c79dd2be13",
             "name": "infected/RAR_PDF/5222239c314d3872e454768898cb65e4.rar",
-            "type": "RAR_PDF"
-        },
-        {
-            "md5": "fc12312ea15de326a35671ae561db83a",
-            "name": "infected/RAR_PDF/04cab4697227a58bf2ff2f8ca3fd7bb4.rar",
             "type": "RAR_PDF"
         },
         {
@@ -1455,11 +1435,6 @@
         {
             "md5": "b5e27b12a0279eb4a06911780466a60f",
             "name": "infected/GZ_PDF/97ccac199b8893380e14b0583596abb6.tar.gz",
-            "type": "GZ_PDF"
-        },
-        {
-            "md5": "6d7999a2bfa208459e85c59b201a1bbe",
-            "name": "infected/GZ_PDF/04cab4697227a58bf2ff2f8ca3fd7bb4.tar.gz",
             "type": "GZ_PDF"
         },
         {
